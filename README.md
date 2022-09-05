@@ -1,2 +1,2 @@
 # Weather-Checker
-Simple Python app to check the weather in any city.
+Simple App to check the weather in any city. Made using Python and OpenWeatherMap API.
